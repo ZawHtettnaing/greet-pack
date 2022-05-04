@@ -1,0 +1,19 @@
+{
+    "name": "simplexir/greetr",
+    "description": "This is a  test package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "A Yoe",
+            "email": "ayoe@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Simplexi\\Greetr\\": "src/"
+        }
+    },
+    "require": {}
+}
